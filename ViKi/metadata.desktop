@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Customized Moe themed ArchLinux Splash Screen
+Name=ViKi 
+X-KDE-PluginInfo-Author=ViKi
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=ViKi
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/ViKi-R/ViKi-splash-screen
+X-KDE-ServiceTypes=Plasma/LookAndFeel
