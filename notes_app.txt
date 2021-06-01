@@ -1,0 +1,11 @@
+Notes:
+----------
+1. Trilium - https://www.electronjs.org/apps/trilium-notes
+2. Obsidian - https://obsidian.md/
+3. Joplin - https://joplinapp.org/
+
+
+Themes:
+----------
+Conky Manager
+Conky Themes - https://www.ubuntupit.com/best-conky-themes-for-linux/
