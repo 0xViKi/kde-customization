@@ -1,4 +1,4 @@
-# Linux Customization
+# KDE Linux Customization
   All Linux Customisation, Themes, Apps links and config files
 
 ### PowerLevel 10k Config:
@@ -14,3 +14,6 @@
 ### Custom SSDM login:
   1. Ittu Bottom Files
   2. /ush/share/ssdm/themes/ittu_bottom/
+
+### Custom Font:
+  Nasalization
