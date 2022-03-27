@@ -1,6 +1,9 @@
 # KDE Linux Customization
     Linux Customisation, Themes, Apps links and config files
 
+### Demo:
+   Video --> https://imgur.com/a/lRc7nDM
+
 ### Two Terminal Configuration:
 
 ##### 1. PowerLevel 10k Config:
