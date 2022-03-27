@@ -20,7 +20,7 @@
  ```
 
 ### Lightly Custom GUI QT applications:
-  [Lightly Link](https://github.com/Luwx/Lightly)
+  [Lightly](https://github.com/Luwx/Lightly)
 
 ### Custom Splash Screen:
   1. Download Viki and place it in ~./local/share/plasma/look-and-feel 
