@@ -46,7 +46,7 @@
   2.  Plasma Style --> [Canat-Dark](https://store.kde.org/p/1656563)
   3.  Colors --> Canta-Dark
   4.  Window Decorations --> Canta-Dark
-  5.  Fonts --> Nasalization (All), MesloLGS NF (Terminal)
+  5.  Fonts --> [Nasalization](https://www.dafont.com/nasalization.font) (All), [MesloLGS NF](https://github.com/romkatv/powerlevel10k/blob/master/font.md) (Terminal)
   6.  Icons --> [Beauty-Line](https://store.kde.org/p/1425426), [Papirus](https://store.kde.org/p/1166289/), [Suru++](https://store.kde.org/p/1238162)
   7.  Cursors --> [Vimix](https://store.kde.org/p/1358330/), [Bibata](https://store.kde.org/p/1197198) 
   8.  Splash Screen --> ViKi, [Beautiful Tree Animation](https://store.kde.org/p/1433200)
