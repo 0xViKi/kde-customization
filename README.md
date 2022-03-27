@@ -1,5 +1,5 @@
 # KDE Linux Customization
-  All Linux Customisation, Themes, Apps links and config files
+    Linux Customisation, Themes, Apps links and config files
 
 ### Two Terminal Configuration:
 
