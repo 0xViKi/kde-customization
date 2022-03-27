@@ -53,8 +53,8 @@
   2. Slide Back
   3. Force Blur
 
-### [Latte Dock](https://github.com/KDE/latte-dock):
-  Latte Dock --> Import Kali.layout.latte 
+### Latte Dock:
+  [Latte Dock](https://github.com/KDE/latte-dock) --> Import Kali.layout.latte 
   
  ### KDE Widgets:
   1. Window Button
