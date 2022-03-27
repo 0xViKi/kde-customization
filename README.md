@@ -20,7 +20,7 @@
  ```
 
 ### Lightly Custom GUI QT applications:
-  Lightly Link - https://github.com/Luwx/Lightly
+  [Lightly Link](https://github.com/Luwx/Lightly)
 
 ### Custom Splash Screen:
   1. Download Viki and place it in ~./local/share/plasma/look-and-feel 
@@ -28,7 +28,7 @@
   3. To change Image edit Splash.qml --> ```source: "images/image-name.img-extension"```
 
 ### Custom SSDM login:
-  <a href="https://store.kde.org/p/1303587">Ittu-Bottom</a> 
+  [Ittu-Bottom](https://store.kde.org/p/1303587)
   ```
   /ush/share/ssdm/themes/ittu_bottom/
   /ush/share/ssdm/themes/ittu_bottom/components/artwork/gifs
@@ -40,20 +40,20 @@
   
 ### Appearence: 
   1. Application Style --> Lightly
-  2.  Plasma Style --> [Canat-Dark][https://store.kde.org/p/1656563]
+  2.  Plasma Style --> [Canat-Dark](https://store.kde.org/p/1656563)
   3.  Colors --> Canta-Dark
   4.  Window Decorations --> Canta-Dark
   5.  Fonts --> Nasalization (All), MesloLGS NF (Terminal)
-  6.  Icons --> [Beauty-Line][https://store.kde.org/p/1425426], [Papirus][https://store.kde.org/p/1166289/], [Suru++][https://store.kde.org/p/1238162]
-  7.  Cursors --> [Vimix](https://store.kde.org/p/1358330/), [Bibata][https://store.kde.org/p/1197198] 
-  8.  Splash Screen --> ViKi, [Beautiful Tree Animation][https://store.kde.org/p/1433200]
+  6.  Icons --> [Beauty-Line](https://store.kde.org/p/1425426), [Papirus](https://store.kde.org/p/1166289/), [Suru++](https://store.kde.org/p/1238162)
+  7.  Cursors --> [Vimix](https://store.kde.org/p/1358330/), [Bibata](https://store.kde.org/p/1197198) 
+  8.  Splash Screen --> ViKi, [Beautiful Tree Animation](https://store.kde.org/p/1433200)
 
 ### Desktop[Kwin Effects] Effects:
-  1. [Yet Another Magic Lamp][https://github.com/zzag/kwin-effects-yet-another-magic-lamp]
+  1. [Yet Another Magic Lamp](https://github.com/zzag/kwin-effects-yet-another-magic-lamp)
   2. Slide Back
   3. Force Blur
 
-### [Latte Dock][https://github.com/KDE/latte-dock]:
+### [Latte Dock](https://github.com/KDE/latte-dock):
   Latte Dock --> Import Kali.layout.latte 
   
  ### KDE Widgets:
