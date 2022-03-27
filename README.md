@@ -3,7 +3,6 @@
 
 ### Demo:
    Video --> https://imgur.com/a/lRc7nDM
-             https://i.imgur.com/NNFKyTD.mp4
              
 ### Two Terminal Configuration:
 
