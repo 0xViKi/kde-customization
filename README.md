@@ -2,6 +2,14 @@
     Linux Customisation, Themes, Apps links and config files
 
 ### Demo:
+
+   ScreenShots:
+   
+   ![ss2](https://user-images.githubusercontent.com/73846668/160337989-b270bdcb-81da-43bb-bb5c-8f74a55a26fb.png)
+
+   ![ss1](https://user-images.githubusercontent.com/73846668/160337940-459daf57-97b1-4f68-821b-bad97598e37a.png)
+   
+   
    Video --> https://imgur.com/a/lRc7nDM
              
 ### Two Terminal Configuration:
